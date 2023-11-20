@@ -1,0 +1,15 @@
+name = "dranz parker"
+
+print(name.upper())
+print(name.lower())
+print(name.isupper())
+print(name.islower())
+print(name.capitalize())
+print(name.isalnum())
+print(name.isdigit())
+print(name*10)
+print(name.isdigit())
+print(name.replace("Dranz", "Alina"))
+print(name.count("b"))
+print(name.title())
+print(name.isspace())
